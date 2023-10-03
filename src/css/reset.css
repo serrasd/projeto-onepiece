@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* Tirar configuração padrão do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Não ter problemas e ajudar com medidas CSS*/
+}
+
+/* Tirar o estilo da lista */
+ul {
+    list-style: none;
+}
