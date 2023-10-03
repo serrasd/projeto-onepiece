@@ -40,7 +40,6 @@ main .personagem .imagem {
     position: absolute;
     top: 0;
     left: 120px;
-    text-align: justify;
 
     /* Aplicar caracteristicas do "flex" */
     display: flex;
